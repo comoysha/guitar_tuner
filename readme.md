@@ -3,9 +3,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Guitar: Fingerstyle](https://img.shields.io/badge/Guitar-Fingerstyle-orange.svg)]()
 
-> 指弹爱好者的完美伴侣，一键实现复杂调弦转换，特别为岸部真明曲目优化
+> 指弹爱好者的完美伴侣，一键实现复杂调弦转换，特别为岸部真明曲目优化 
 
 ![Guitar Tuner Preview](https://via.placeholder.com/800x400?text=Guitar+Tuner+Preview)
+## 在线体验
+
+[点击这里直接访问](https://comoysha.github.io/guitar_tuner/)
 
 ## ✨ 特色功能
 
